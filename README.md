@@ -5,8 +5,7 @@ This is the first project for the Udacity "Full Stack Web Developer" nanodegree 
 
 ## Getting Started
 ### 1. Set up the virtual machine
-This project assumes a Linux virtual machine is already set up and initialized. Instructions for setting up the VM can be found on [the course's website] 
-(https://classroom.udacity.com/nanodegrees/nd004/parts/51200cee-6bb3-4b55-b469-7d4dd9ad7765/modules/c57b57d4-29a8-4c5f-9bb8-5d53df3e48f4/lessons/5475ecd6-cfdb-4418-85a2-f2583074c08d/concepts/14c72fe3-e3fe-4959-9c4b-467cf5b7c3a0]).
+This project assumes a Linux virtual machine is already set up and initialized. Instructions for setting up the VM can be found on [the course's website](https://classroom.udacity.com/nanodegrees/nd004/parts/51200cee-6bb3-4b55-b469-7d4dd9ad7765/modules/c57b57d4-29a8-4c5f-9bb8-5d53df3e48f4/lessons/5475ecd6-cfdb-4418-85a2-f2583074c08d/concepts/14c72fe3-e3fe-4959-9c4b-467cf5b7c3a0).
 
 The VM comes with PostgreSQL and Python2 already installed. 
 To start the virtual machine on Mac OSX, open a Terminal and type `vagrant up`
@@ -17,7 +16,7 @@ To log into the VM, type `vagrant ssh`
 
 The VM provides a common folder for sharing files between OSX and Linux. On Linux this folder appears as `/vagrant`
 
-Download the project database [from here] (https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) and unzip it. Copy the resulting file (`newsdata.sql`) into the `/vagrant` folder.
+Download the project database [from here](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) and unzip it. Copy the resulting file (`newsdata.sql`) into the `/vagrant` folder.
 
 To initialize the database, cd into `/vagrant` from the VM's Terminal and run the following command:
 
